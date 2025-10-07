@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vianello0
 - 👀 I’m interested in yes
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on yes
+- 🌱 I’m currently learning java, html, javascript, dart
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me yes
 - 😄 Pronouns: yes
 - ⚡ Fun fact: yes
